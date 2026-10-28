@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Hero golden arches placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#705123"/>
+      <stop offset="50%" stop-color="#d5a76d"/>
+      <stop offset="100%" stop-color="#26160f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#0c0b1a"/>
+  <rect x="0" y="0" width="1600" height="900" fill="url(#g)" opacity="0.72"/>
+  <g fill="#f1d8ae" opacity="0.72">
+    <path d="M160 600h300l-30 180H180z"/>
+    <path d="M500 560h380l-40 220H540z"/>
+    <path d="M940 600h320l-30 180H970z"/>
+    <path d="M1290 540h220l-20 240h-200z"/>
+  </g>
+</svg>

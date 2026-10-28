@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Signal local placeholder">
+  <rect width="800" height="520" fill="#ebf1da"/>
+  <circle cx="150" cy="180" r="110" fill="#d9d3a1"/>
+  <path d="M240 160l140 180 180-210 180 250H240z" fill="#7aa66c" opacity="0.8"/>
+  <rect x="100" y="350" width="600" height="80" rx="18" fill="#5c7e59" opacity="0.7"/>
+</svg>

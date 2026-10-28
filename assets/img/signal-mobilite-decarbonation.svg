@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Signal mobilité placeholder">
+  <rect width="800" height="520" fill="#dfeaf7"/>
+  <path d="M90 360c120-100 200-150 260-150 110 0 180 70 280 150" fill="none" stroke="#4b7ba6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M210 220h120l80 120h-80z" fill="#9ec7d8" opacity="0.9"/>
+  <path d="M440 220h160l70 120H500z" fill="#5f87a8" opacity="0.8"/>
+  <circle cx="260" cy="390" r="46" fill="#88bfd4"/>
+  <circle cx="560" cy="390" r="46" fill="#88bfd4"/>
+</svg>

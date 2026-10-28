@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Sommeil placeholder">
+  <rect width="1600" height="900" fill="#e7e8ef"/>
+  <rect x="180" y="160" width="1240" height="560" rx="26" fill="#f9fafb"/>
+  <rect x="300" y="290" width="1000" height="270" rx="30" fill="#dfe3ee"/>
+  <rect x="470" y="240" width="660" height="140" rx="26" fill="#a3b2d1"/>
+  <rect x="420" y="540" width="760" height="100" rx="22" fill="#7f8db5"/>
+</svg>

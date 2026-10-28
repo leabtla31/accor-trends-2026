@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Day use placeholder">
+  <rect width="1600" height="900" fill="#d9eaf5"/>
+  <rect x="130" y="180" width="1340" height="540" rx="22" fill="#f9fbff"/>
+  <path d="M200 560c150-110 270-180 400-180 120 0 220 70 350 180s250 180 430 180H200z" fill="#8dc8df" opacity="0.75"/>
+  <rect x="400" y="300" width="800" height="150" rx="20" fill="#b4d8ec"/>
+  <rect x="650" y="180" width="300" height="150" rx="20" fill="#8cc4d7"/>
+</svg>

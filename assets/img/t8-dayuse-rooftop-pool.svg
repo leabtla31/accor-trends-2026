@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Biométrie placeholder">
+  <rect width="1600" height="900" fill="#131623"/>
+  <rect x="500" y="120" width="600" height="660" rx="54" fill="#1c2337" stroke="#8aa5d9" stroke-width="8"/>
+  <circle cx="800" cy="360" r="180" fill="#f3d2a5" opacity="0.82"/>
+  <path d="M620 520c80-90 125-136 180-136s100 46 180 136" fill="none" stroke="#8aa5d9" stroke-width="10" stroke-linecap="round"/>
+  <path d="M690 640h220" stroke="#8aa5d9" stroke-width="8" stroke-linecap="round"/>
+</svg>
